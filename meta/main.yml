@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Ajeet Singh
+  company: Confidential
+  description: Provision EC2 instance
+  license: GupSup
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  categories:
+    - cloud
+dependencies: []
+version: 4.0.0
